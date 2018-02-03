@@ -25,7 +25,7 @@ SECRET_KEY = '-*7$q^*3r3(aj_yzzsefl1i_)l3w#lydm80p7r)*9u8kq0w_(m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mandypry.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'MandyPry.pythonanywhere.com']
 
 
 # Application definition
